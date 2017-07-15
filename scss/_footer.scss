@@ -1,0 +1,27 @@
+.footer {
+    flex-basis: 100%;
+    height: 70px;
+    background: $main;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    color: $white;
+    &__copyright {
+        text-decoration: none;
+        font-size: 14px;
+        padding-right: 10px;
+        color: $white;
+        i:first-child {
+            padding-right: 1px;
+        }
+        i:first-child {
+            font-size: 17px;
+        }
+    }
+}
+
+@media (max-width: 850px) {
+    .footer {
+        margin: 0;
+    }
+}
