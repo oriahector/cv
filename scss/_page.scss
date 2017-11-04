@@ -27,9 +27,7 @@ body {
     padding: 0;
     display: flex;
     flex-wrap: wrap;
-    background-image: linear-gradient(180deg, $greengradient 1%, $main 100%);
-    background-size: cover;
-    background-repeat: no-repeat;
+    background-image: url(../img/oliva.png);
 }
 
 main {

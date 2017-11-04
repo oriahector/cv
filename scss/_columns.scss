@@ -59,6 +59,13 @@ section {
             }
         }
     }
+    .experience {
+        &__cloud {
+            &:first-of-type {
+                background-image: linear-gradient(90deg, $greengradient 10%, $main 100%);
+            }
+        }
+    }
     .skills {
         flex-basis: 55%;
         border-left: 1px solid $main;
