@@ -1,0 +1,1 @@
+$(window).on("scroll",function(){$(window).scrollTop()>50?$(".download").addClass("active"):$(".download").removeClass("active")});
