@@ -8,11 +8,10 @@
     padding: 0 20px;
     max-width: 100%;
     a {
-        color: $copy;
+        color: $copy:
     }
     i {
-        color: $copy;
-        font-size: 20px;
+        color: $copy: font-size: 20px;
     }
 }
 
