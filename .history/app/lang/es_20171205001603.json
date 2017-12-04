@@ -1,0 +1,69 @@
+{
+    "download": "Descargar CV en PDF",
+    "based": "<i class=\"fa fa-map-marker\"></i>Trabajando en Madrid",
+
+    "cloud1": "<i class=\"fa fa-diamond\"></i>EXPERIENCIA PROFESIONAL",
+    "cloud2": "<i class=\"fa fa-graduation-cap\"></i>EDUCACIÓN",
+    "cloud3": "<i class=\"fa fa-hand-paper-o\"></i>SOFTWARE",
+    "cloud4": "<i class=\"fa fa-bullhorn\"></i>IDIOMAS",
+    "cloud5": "<i class=\"fa fa-graduation-cap\"></i>CURSOS",
+    "cloud6": "<i class=\"fa fa-align-justify\"></i>OTROS",
+
+    "rol1": "Front-end developer",
+    "rol2": "Desarrollador UI/UX",
+    "rol3": "Desarrollador Front-end",
+    "rol4": "Desarrollador Front-end",
+    "rol5": "Desarrollador y diseñador Web",
+    "rol6": "Desarrollador y diseñador Web",
+    "rol7": "Operador de cámara y editor de vídeo",
+    "rol8": "Documentalista y editor de vídeo",
+
+    "date1": "<i class=\"fa fa-calendar\"></i>Dic 2017 - Activo",
+    "date2": "<i class=\"fa fa-calendar\"></i>9 meses",
+    "date3": "<i class=\"fa fa-calendar\"></i>20 meses",
+    "date4": "<i class=\"fa fa-calendar\"></i>17 meses",
+    "date5": "<i class=\"fa fa-calendar\"></i>2 meses",
+    "date6": "<i class=\"fa fa-calendar\"></i>7 meses",
+    "date7": "<i class=\"fa fa-calendar\"></i>4 meses",
+    "date8": "<i class=\"fa fa-calendar\"></i>13 meses",
+    "date9": "<i class=\"fa fa-calendar\"></i>Cursando",
+    "date10": "<i class=\"fa fa-calendar\"></i>2013-14",
+    "date11": "<i class=\"fa fa-calendar\"></i>2007-12",
+
+    "job1": "",
+    "job2": "Tecnologías: HTML5, CSS3, SASS, PostCSS, Flexbox, CSS Grids, JavaScript(jQuery), Gulp, entorno GIT (Bitbucket), Responisve Web Design.</br> Diseño/UX: Sketch, Photoshop, Illustrator</br>Gestión de proyectos: Jira y Slack ",
+    "job3": "Tecnologías: Adobe Experience Manager (AEM), HTML5, CSS3, SASS, LESS, Flexbox, CSS Grids, JavaScript(jQuery), Susy, entorno Git, Gulp. Accesibilidad, UX (Balsamiq), Google Developer Tools, diseño responsive, Pixel perfect design. </br>Entorno internacional en Inglés. </br> Creación de plantillas para newsletters: Adobe Experience Manager(AEM), Litmus. </br>Gestión de proyectos: Jira, Slack & Starleaf. Metodología Ágil SCRUM",
+    "job4": "Tecnologías: CSS3, HTML5, Jquery, PHP, Bootstrap, Git environment, Photoshop, Illustrator, UX: Axure RP7, Responsive web design, campañas de e-mailing.</br>Gestión de proyectos: Trello y Asana.</br>Mastercard worldwide / Mastercard / Mastercard Priceless Cities / Banco Santander / Opel / Club VIPS / L'oreal Lujo (Kiehl's) / IKEA / Zurich / supermercados ALDI / Unicef...",
+    "job5": "Tecnologias: CSS3, HTML5, Jquery, CMS: Wordpress.</br>Diseño Web/Offline design: Sketch, Photoshop, Illustrator, Indesign.",
+    "job6": "Tecnologías: CSS3, HTML5, Jquery, CMS: Wordpress, SEO/SEM.</br>Diseño Web/Offline: Photoshop, Illustrator",
+    "job7": "Tecnologías: Cámara DSRL Canon 5D mark II, Adobe Premiere Pro, Final Cut Pro, Youtube.",
+    "job8": "Tecnologías: Avid Media Composser, GAMA, Photoshop.",
+
+    "article": "<i class=\"fa fa-pencil\"></i>Artículo",
+    "article2": "<i class=\"fa fa-pencil\"></i>Responsable del rebranding de la web corporativa",
+
+    "education1": "Especialista en desarrollo Web Móvil",
+    "education2": "Máster en diseño y desarrollo Web",
+    "education3": "Licenciatura de 5 años</br>Comunicación Audiovisual",
+    "education4": "Univ. Rey Juan Carlos",
+
+    "skills1": "Diseño/UX:",
+    "skills2": "Maquetación/Desarrollo Web:",
+    "skills3": "Aprendiendo de manera autodidacta:",
+
+    "languages1": "Cambridge <b>First Certificate</b> in English B2. Grado B",
+    "languages2": "Estudiando para Cambridge Advanced C1",
+    "languages3": "Un año estudiando y trabajando en York, Reino Unido (2013-14)",
+
+    "courses1": "Desarrollo Web (Universidad de Valencia - online )",
+    "courses2": "Desarrollo de aplicaciones (Universidad Complutense de Madrid - online)",
+    "courses3": "Front-end Academy (Netcentic - Expert Web Excellence)",
+    "courses4": "Certificado Google Analytics: “E-commerce: From data to decisions”",
+    "courses5": "CodeSchool: Flexbox, CSS grids, JS, Jquery, Bootstrap, E-mailing, SVG, UX...",
+    "courses6": "Curso de fotografía profesional (Canon)",
+
+    "others1": "Carné de conducir B2",
+    "others2": "Pasión por las nuevas tecnologías, el cine y la fotografía.",
+
+    "updated": "<i class=\"fa fa-copyright\"></i>Héctor Martínez - Actualizado: Diciembre de 2017"
+}
