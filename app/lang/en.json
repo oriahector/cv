@@ -30,9 +30,9 @@
     "date10": "<i class=\"fa fa-calendar\"></i>2013-14",
     "date11": "<i class=\"fa fa-calendar\"></i>2007-12",
 
-    "job1": "",
-    "job2": "Technologies: HTML5, CSS3, SASS, PostCSS, LESS, Flexbox, CSS Grids, JavaScript(jQuery), Gulp, Git Environment (Bitbucket), Responisve Web Design.</br> Design/UX: Sketch, Photoshop, Illustrator</br>Project management: Jira & Slack",
-    "job3": "Technologies: Adobe Experience Manager (AEM), HTML5, CSS3, SASS, LESS, Flexbox, CSS Grids, JavaScript(jQuery), Susy, Git Environment, Gulp. Accessibility, UX (Balsamiq), Google Developer Tools, Responisve Web Design, Pixel perfect design. </br>Full English professional environment. </br> Proficiency in creating newsletter templates: Adobe Experience Manager(AEM), Litmus. </br>Project management: Jira, Slack & Starleaf. SCRUM Agile methodology.",
+    "job1": "Technologies: Vue JS, JavaScript ES6, HTML5. CSS3, SASS, Flexbox, CSS grid, Webpack, entorno GIT (Bitbucket & GitHub), Responisve Web Design</br>Project management:: Jira & Slack. Metodología Ágil SCRUM",
+    "job2": "Technologies: HTML5, CSS3, SASS, PostCSS, LESS, Flexbox, JavaScript(jQuery), Gulp, Git Environment (Bitbucket), Responisve Web Design.</br> Design/UX: Sketch, Photoshop, Illustrator</br>Project management: Jira & Slack",
+    "job3": "Technologies: Adobe Experience Manager (AEM), HTML5, CSS3, SASS, LESS, Flexbox, JavaScript(jQuery), ES6, Susy, Git Environment, Gulp. Accessibility, UX (Balsamiq), Google Developer Tools, Responisve Web Design, Pixel perfect design. </br>Full English professional environment. </br> Proficiency in creating newsletter templates: Adobe Experience Manager(AEM), Litmus. </br>Project management: Jira, Slack & Starleaf. SCRUM Agile methodology.",
     "job4": "Technologies: CSS3, HTML5, Jquery, PHP, Bootstrap, Git environment, Photoshop, Illustrator, UX: Axure RP7, Responsive web design, E-mail campaigns.</br>Project management: Trello and Asana.</br>Mastercard worldwide / Mastercard / Mastercard Priceless Cities / Santander Bank / Opel / VIPS Club / L'oreal Luxe (Kiehl's) / IKEA / Zurich / ALDI supermarkets / Unicef...",
     "job5": "Tehcnologies: CSS3, HTML5, Jquery, CMS: Wordpress.</br>Web design/offline design: Sketch, Photoshop, Illustrator, Indesign.",
     "job6": "Technologies: CSS3, HTML5, Jquery, CMS: Wordpress, SEO/SEM.</br>Web design/offline: Photoshop, Illustrator.",
@@ -42,7 +42,7 @@
     "article": "<i class=\"fa fa-pencil\"></i>Article",
     "article2": "<i class=\"fa fa-pencil\"></i>Main developer of Kimia's rebranding webpage",
 
-    "education1": "Mobile Web Specialist",
+    "education1": "Mobile Web Specialist master's degree",
     "education2": "Web and graphic Design master’s degree",
     "education3": "5-year-Bachelor’s degree: </br>Media & Communications Studies",
     "education4": "Rey Juan Carlos University",
